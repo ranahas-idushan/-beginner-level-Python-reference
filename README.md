@@ -1,17 +1,31 @@
 📌 1. Basic Printing.
+
 🧮 2. Math Operations.
+
 🔤 3. Variables and String Methods.
+
 👤 4. Data Types.
+
 🧰 5. Functions.
+
 ✅ 6. Booleans and Comparisons.
+
 🔁 7. Relational and Logical Operators.
+
 🤔 8. Conditionals (if/else/elif).
+
 🎞️ 9. Lists.
+
 🧾 10. Nested Lists.
+
 🔒 11. Tuples.
+
 🔁 12. Loops.
+
 🧵 13. Advanced String Operations.
+
 🗂️ 14. Dictionaries.
+
 
 
 ✅ Summary
